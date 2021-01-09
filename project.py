@@ -1,2 +1,6 @@
 #nwHacks Project
-print("hello world")
+
+def hiWorld():
+    return ("hello world")
+    
+    
